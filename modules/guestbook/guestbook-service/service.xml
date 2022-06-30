@@ -34,7 +34,7 @@
 		<finder name="GroupId" return-type="Collection">
 			<finder-column name="groupId" />
 		</finder>
-
+		
 	</entity>
 
 	<entity name="GuestbookEntry" local-service="true"
